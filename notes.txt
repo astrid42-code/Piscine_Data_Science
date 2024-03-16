@@ -1,0 +1,2 @@
+https://geshan.com.np/blog/2021/12/docker-postgres/
+> installer postgresql avec docker compose
